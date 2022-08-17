@@ -6,7 +6,7 @@ subtitle: PhD Candidate in Machine Learning.
 
 profile:
   align: right
-  image: 
+  image: cwayad.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
