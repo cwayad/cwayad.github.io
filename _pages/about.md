@@ -7,7 +7,7 @@ subtitle: PhD Candidate in Machine Learning.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Office 1066</p>
     <p>1 Rue Honoré d'Estienne d'Orves</p>
