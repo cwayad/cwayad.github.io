@@ -3,9 +3,6 @@ layout: about
 title: About
 permalink: /
 subtitle: PhD Candidate in Machine Learning.
-          <p>Office 1066</p>
-          <p>1 Rue Honoré d'Estienne d'Orves</p>
-          <p>91120 Palaiseau</p>
 
 profile:
   align: right
