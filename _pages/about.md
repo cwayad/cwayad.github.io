@@ -21,4 +21,4 @@ I completed my MSc in Machine Learning for Data Sciences at <a href='https://u-p
 
 My current research interests include: Machine Learning Explainability, Probabilistic Graphical Models, Uncertainty Quantification and Causality.
 
-My academic CV can be accessed <a href='https://cwayad.github.io/cv/'>here</a>.
+My academic CV can be accessed <a href='https://cwayad.github.io/assets/pdf/cwayad.pdf'>here</a>.
