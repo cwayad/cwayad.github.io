@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-  <p>Office 1066</p>
-  <p>1 Rue Honore d'Estienne d'Orves</p>
-  <p>91120 Palaiseau</p>
+    <p>Office 1066</p>
+    <p>1 Rue Honoré d'Estienne d'Orves</p>
+    <p>91120 Palaiseau</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
