@@ -4,4 +4,4 @@ date: 2022-08-07
 inline: true
 ---
 
-Attended OxML Summer School, Health Track at the university of oxford.
+Attended<a href="https://ida-2022.org/phd-forum/"> OxML Summer School, Health Track </a>at the university of oxford.
